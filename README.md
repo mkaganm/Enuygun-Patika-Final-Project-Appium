@@ -2,6 +2,20 @@
 
 [APK](https://github.com/movilidadagil/ContactManagerAPIProject/tree/master/src/test/resources/apps) - Linkteki apk için test senaryoları oluşturuldu ve test edildi.
 
+
+[android-oreo.json](https://github.com/mkaganm/Enuygun-Patika-Final-Project-Appium/blob/master/src/test/resources/config/android-oreo.json) - Android ayarlarını buradan çekiyor başka cihazda çalıştırmak için burayı düzenleyiniz.
+
+``` JSON
+{
+  "platformName": "Android",
+  "appium:deviceName": "oreo",
+  "appium:automationName": "FinalProject",
+  "appium:udid": "emulator-5554",
+  "appium:avd": "Pixel_4_API_27",
+  "appium:app": "C:\\Users\\mkaga\\IdeaProjects\\FinalProjectMobile\\src\\test\\resources\\config\\android-oreo.json"
+}
+``` 
+
 Senaryolar
 
 - Kullanıcı kaydı
