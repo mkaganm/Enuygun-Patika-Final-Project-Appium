@@ -58,3 +58,5 @@ Sanal android cihaz Android studio'dan oluşturuldu.
 ## RESULTS
 
 ![](https://github.com/mkaganm/Enuygun-Patika-Final-Project/blob/main/images/mobileallure.png)
+
+# AUTHOR - [M.Kağan Meriç](https://github.com/mkaganm)
