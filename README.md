@@ -10,6 +10,8 @@ Senaryolar
 - Müşteri ekleme
 - Müşteri arama
 
+![](https://github.com/mkaganm/Enuygun-Patika-Final-Project/blob/main/images/phone.png)
+
 ## TECH
 
 - Appium
@@ -39,4 +41,6 @@ Sanal android cihaz Android studio'dan oluşturuldu.
 
 [MKagan](https://github.com/mkaganm/Enuygun-Patika-Final-Project-Appium/tree/master/src/test/java/MKagan) - Appium hızlı başlangıç için oluşturduğum paket
 
+## RESULTS
 
+![](https://github.com/mkaganm/Enuygun-Patika-Final-Project/blob/main/images/mobileallure.png)
