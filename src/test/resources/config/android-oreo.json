@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "oreo",
+  "appium:automationName": "FinalProject",
+  "appium:udid": "emulator-5554",
+  "appium:avd": "Pixel_4_API_27",
+  "appium:app": "C:\\Users\\mkaga\\IdeaProjects\\FinalProjectMobile\\src\\test\\resources\\config\\android-oreo.json"
+}
